@@ -1,0 +1,336 @@
+﻿#onetIDListForm {
+    width:100%;
+}
+
+#WebPartWPQ1 table {
+    width:100%;
+}
+
+#contentBox {
+    margin-left:10px !important;
+    margin-right:10px !important;
+    min-width:1200px !important;
+}
+
+#sideNavBox {
+    display:none;
+}
+
+.ms-dtinput {
+    width:10px;
+}
+
+.tblOpt {
+    min-width: 1000px;
+}
+
+.tblOpt td {
+    min-height:46px;
+    vertical-align:top;
+    font-family:'Microsoft YaHei';
+    font-size:14px;
+}
+
+.input02 {
+    max-width:300px;
+}
+
+.input03 {
+    max-width:200px;
+}
+textarea.input03 {
+    max-width:400px;
+}
+.tblOptTitle {
+    text-align:left;
+    font-weight:bold;
+    font-size:28px;
+    height:60px;
+    line-height: 60px;
+    color:#45a5e2;
+    border-bottom: 2px solid #45a5e2;
+}
+
+.tblOptTitleCont {
+    float:left;
+}
+.tblOptContrightApp,.tblOptContrightNum {
+    float: right;
+    color: rgb(68, 68, 68);
+    font-size: 15px;
+    height: 30px;
+    line-height: 86px;
+}
+.tblOptContrightApp span,.tblOptContrightNum span{
+    font-size: 15px;
+    color: #0072c6;
+}
+.tblOptContrightNum {
+    margin-left: 30px;
+}
+
+.divOpt {
+    padding-top:16px;
+    padding-bottom:16px;
+    /*background-color:#FDF7F3;*/
+    background-color: #ecf8ff;
+}
+.hisbody{
+	background-color: #ecf8ff;
+}
+.divOpt table {
+    font-family:'pingfang SC','helvetica neue',arial,'hiragino sans gb','microsoft yahei ui','microsoft yahei',simsun,sans-serif;
+    font-size:14px;
+}
+
+.sp-peoplepicker-topLevel, .sp-peoplepicker-topLevelDisabled {
+    max-width:240px;
+}
+
+.attachcss {
+    max-width:100px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+.attachcss a {
+    color:#333;
+}
+
+.subrecordsbanner {
+    text-align:left;
+    padding-top:6px;
+    padding-bottom:6px;
+    height:24px;
+    border-top:2px solid #45a5e2;
+    border-bottom:2px solid #45a5e2;
+}
+
+.subrecordsbutton {
+    float:left;
+    margin-left:10px;
+    cursor:pointer;
+    margin-top:6px;
+}
+
+.subrecordstitle {
+    float:left;
+    margin-left:10px;
+    font-size:18px;
+}
+
+.subtable {
+    width:98% !important;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.subtable td {
+    border-bottom: 1px dotted #45a5e2;
+}
+
+.subtd, .subtdoperate {
+    text-align:left;
+    height:24px;
+    line-height:24px;
+    padding:2px;
+    font-weight:bold;
+}
+
+.subtdctl {
+    text-align:left;
+    padding:2px;
+    padding-top:6px;
+    padding-bottom:6px;
+}
+
+.divattach {
+    color:#45a5e2;
+    text-align:left;
+    height:24px;
+    line-height:24px;
+    vertical-align:middle;
+    border-top:2px solid #45a5e2;
+    border-bottom:2px solid #45a5e2;
+    padding-left:10px;
+    font-size:18px !important;
+    padding-top:6px;
+    padding-bottom:6px;
+}
+
+.tblattach {
+    display:none;
+}
+
+#idAttachmentsTable td {
+    line-height:24px;
+    padding-right:20px;
+}
+
+#contentRow {
+    padding-top:0px;
+}
+
+#contentBox {
+    margin-left:auto !important;
+    margin-right:auto !important;
+    width:1200px;
+}
+
+.tblopttd {
+    padding-left:10px;
+    width:180px;
+    font-weight: bold;
+}
+
+.tblopttd2 {
+    padding-left:10px;
+    width:110px;
+}
+.tblopttd2 *{
+	word-break: break-all;
+    word-spacing: inherit;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+.subtdctl_del {
+    text-align:left;
+    vertical-align:middle !important;
+}
+
+.ms-csrformvalidation {
+    margin-top:0px;
+}
+
+.btnokinline, .btncancelinline {
+
+}
+
+.btnokinline {
+    background-color: #0b5b96 !important;
+    border: 1px solid #999 !important;
+    color: #fff !important;
+    width: 110px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px !important;
+    display: inline-block;
+    margin: auto 10px;
+    padding: 0px!important;
+    box-sizing: content-box;
+}
+.btnself_div {
+    margin-left:20px;
+}
+.btnself {
+    background-color: #0b5b96;
+    border: 1px solid #999;
+    color: #fff !important;
+    width: 110px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px !important;
+    display: inline-block;
+    margin: auto 10px;
+}
+#btnDelete{
+	background-color: #ff0000!important;
+    border: 1px solid #fff!important;
+}
+.ms-contextmenu-box {
+    display:none !important;
+}
+
+.ms-cui-ct-ul {
+    display:none !important;
+}
+
+#s4-ribbonrow {
+    display:none !important;
+}
+
+table.ms-formtable td input[type="text"]{
+    width: 180px;
+    min-width: 100px;
+}
+.sp-peoplepicker-topLevel {
+    max-width: 165px!important;
+}
+span[dir='none'] select.ms-RadioText {
+    width: 190px;
+    min-width: 100px;   
+}
+
+.history .hishead {
+    text-align: left;
+    font-weight: bold;
+    font-size: 18px;
+    height: 42px;
+    line-height: 42px;
+    color:#45a5e2;
+    border-bottom: 2px solid #45a5e2;
+}
+.history .hishead img {
+    vertical-align: middle;
+    height: 20px;
+    margin: auto 6px auto 4px;
+}
+.history .hishead .headtitle {
+    display: inline-block;
+    vertical-align: middle;
+}
+.history .hisbody th {
+    text-align: center;
+    border-bottom: 1px dashed #45a5e2;
+    padding: 8px 0px;
+}
+.history .hisbody td {
+    text-align: center;
+    padding:8px 0px;
+    border-bottom: 1px dashed #45a5e2;
+}
+#WebPartWPQ2>table {
+    width:100%;
+}
+.history table {
+    width:100%;
+}
+/*拒绝弹出层*/
+.layercontdiv {
+    padding: 20px 15px 0px;
+    text-align: center;
+}
+.layercontdiv textarea{
+    width: 94%;
+    height: 140px;
+    margin: 0 auto;
+    resize: none;
+}
+.layercontdiv .layerbtndiv {
+    text-align: center;
+    margin: 18px auto 0px;
+    width: 94%;
+}
+.layercontdiv .layerbtndiv span{
+    background-color: #0b5b96 !important;
+    border: 1px solid #999 !important;
+    color: #fff !important;
+    width: 110px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px !important;
+    display: inline-block;
+    margin: auto 14px;
+}
+.ms-rtestate-write.ms-rtestate-field{
+	outline:none!important;
+}

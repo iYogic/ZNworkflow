@@ -1,0 +1,42 @@
+﻿#s4-titlerow {
+	display:none !important;
+}
+
+#contentBox {
+	display:none;
+	background-color:#fff;
+	border:1px solid #fff;
+	border-radius:8px;
+}
+
+#Hero-WPQ1 {
+    display:none;
+}
+
+.ms-pivotControl-container {
+    display:none;
+}
+
+.ms-InlineSearch-SearchStatus {
+    display:none;
+}
+
+.ms-notif-box {
+    display:none;
+}
+
+.ms-listviewtable {
+    width:100%;
+}
+
+.ms-dragDropAttract {
+    display:none !important;
+}
+
+.globalleft, .globalright {
+    display:none;
+}
+
+.globalleft, .globalright, .globalmain {
+    vertical-align: top;
+}

@@ -1,0 +1,106 @@
+﻿.ms-csrlistview-controldiv {
+	border-bottom:1px solid #45a5e2;
+}
+.ms-listviewtable {
+	margin-top:10px;
+	width:100%;
+	border:2px solid #ccc;
+	background-color:#fff;
+}
+.ms-viewheadertr th {
+	background-color:#45a5e2 !important;
+	color:#fff;
+    padding:10px 0px;
+}
+.ms-viewheadertr th a {
+	color:#fff;
+}
+.ms-listviewtable>tbody>tr>td {
+	border-bottom: 1px dotted #ccc;
+    padding:10px 0px;
+}
+.ms-listviewtable>tbody>tr:last-child>td {
+	border-bottom:0px!important;
+}
+#sideNavBox {
+    margin-top:28px;
+}
+.tblOptTitle {
+    text-align:left;
+    font-weight:bold;
+    font-size:20px;
+    color:#45a5e2;
+}
+.listbtn {
+    display: inline-block;
+    float: right;
+    margin-right: 4px;
+    background-color: #45a5e2;
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 3px;
+    cursor:pointer;
+}
+.listbtn a {
+    font-size:14px;
+    color:#fff!important;
+    text-decoration:none;
+}
+table.ms-listviewtable tbody > tr > td.ms-vb-lastCell{
+	display:none;
+	cursor:pointer
+}
+table.ms-listviewtable tbody > tr > td.ms-vb-lastCell>a{
+	display:none;
+}
+.ms-listviewtable div[align='right']{
+    text-align: left;
+}
+/*左侧菜单列表*/
+.ms-core-listMenu-verticalBox .ms-listMenu-editLink{
+	display:none;
+}
+
+li.static:first-child {
+    width: 100%;
+}
+li.static {
+    width: 80%;
+    margin: 0 auto;
+}
+.ms-core-listMenu-verticalBox li.static > .ms-core-listMenu-item {
+    padding: 5px 0px;
+    font-weight: bold!important;
+    border-bottom: 1px dashed #ccc;
+}
+.ms-core-listMenu-verticalBox li.static > .ms-core-listMenu-item:after {
+    content: '>';
+    float: right;
+    font-weight: 400;
+}
+/* 返回首页*/
+div.ms-cui-TabRowRight .gobackindex{
+    margin-right: 30px;
+    vertical-align: middle;
+    height: 100%;
+    display: inline-block;
+}
+.gobackindex .back_imgspan{
+    height: 10px;
+    width: 16px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 4px;
+}
+.gobackindex .back_imgspan img{
+    position: absolute;
+    left: -57px;
+    top: -160px;
+}
+.gobackindex .back_titlespan{
+    display: inline-block;
+    color: rgb(102, 102, 102);
+    text-transform: uppercase;
+    font-size: 9pt;
+}
